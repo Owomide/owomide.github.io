@@ -1,0 +1,92 @@
+/*This is my css file*/
+body{
+
+}
+.my-navbar{
+    margin-top: 5px;
+}
+
+.my-sidebar{
+    margin-top: 20px;
+}
+
+.social-links{
+    margin-left: 40px;
+}
+
+
+#header{
+    background-color: rgb(0, 225, 255);
+    height: 70px;
+    text-align: center;
+    font-size:x-large;
+    color: white;
+    font-family:Helvetica;
+}
+
+.media{
+    height:150px;
+    margin:10px;
+}
+
+.button{
+    background-color: rgb(8, 28, 206);
+    border:solid 1px white;
+    width: 150px;
+    height: 40px;
+    color: white;
+    border-radius: 20px;
+}
+
+/*footer*/
+.footer{
+    background: rgb(12, 12, 27);
+    color: #fce7e7;
+    height: 300px;
+   
+    
+}
+
+.footer .footer-content{
+    border:1px solid red;
+    height: 300px;
+    
+}
+
+.socials{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 0 3rem 0;
+}
+
+.socials li{
+    margin: 0 10px;
+}
+
+.socials a{
+    text-decoration: none;
+    color:blue;
+}
+
+.socials a i{
+    font-size: 1.5rem;
+    transition: color .4s ease;
+}
+
+.socials a:hover i{
+    color: rgb(255, 174, 0);
+}
+
+.picture{
+    border-radius: 250px;
+    mask-position: 2%;
+    
+
+}
+
+
+
+
+
